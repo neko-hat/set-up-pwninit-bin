@@ -1,4 +1,4 @@
-# SETUP THE binary pwninit
+# SETUP THE PWNINIT BINARY
 
 ## INSTALL
 
